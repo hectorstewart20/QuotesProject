@@ -1,5 +1,5 @@
 
-- Proyecto de Automatización - Quotes to Scrape Login
+- Proyecto de Automatización - Quotes Login
 
 Este proyecto automatiza el proceso de login en [Quotes to Scrape](https://quotes.toscrape.com), usando el patrón POM junto con herramientas como Selenium, Cucumber, Maven y WebDriverManager.
 
